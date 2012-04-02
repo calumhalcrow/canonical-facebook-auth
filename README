@@ -1,0 +1,1 @@
+Canonical Facebook auth integration with express and passport. Includes saving token to DB via mongoose.
